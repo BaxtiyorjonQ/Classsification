@@ -1,6 +1,6 @@
-fastai==2.5.3
-torch==1.10.2
-torchvision==0.11.3
-torchaudio==0.10.2
-plotly==5.5.0
-streamlit==1.15.0
+fastai==2.5.6
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.1
+plotly==5.16.1
+streamlit==1.26.0
